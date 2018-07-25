@@ -15,8 +15,10 @@ ingredients = [
 ]
 
 def ingredients
-  []
+  [0][1]
 end
+
+
 # example city_info hash
 cities = {
   :new_york => { 
