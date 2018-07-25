@@ -14,6 +14,9 @@ ingredients = [
   
 ]
 
+def ingredients
+  []
+end
 # example city_info hash
 cities = {
   :new_york => { 
