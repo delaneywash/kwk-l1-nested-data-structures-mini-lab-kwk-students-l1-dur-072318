@@ -12,7 +12,7 @@ ingredients = [
   ["swiss", "munster", "cheddar"],
   ["mayo", "mustard", "tabasco"]
   
- ]
+]
 
 # example city_info hash
 cities = {
