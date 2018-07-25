@@ -1,11 +1,6 @@
-# example ingredients array
-ingredients = [
-    ["rye", "sourdough", "baguette"],
-    ["ham", "salami", "turkey"],
-    ["swiss", "munster", "cheddar"],
-    ["mayo", "mustard", "tabasco"]
-]
 
+
+sandwich_request
 ingredients = [
   ["rye", "sourdough", "baguette"],
   ["ham", "salami", "turkey"],
